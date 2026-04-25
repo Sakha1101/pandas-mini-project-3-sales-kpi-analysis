@@ -1,0 +1,851 @@
+Order_ID,Customer_ID,Region,Product,Category,Sales,Cost,Profit,Quantity,Order_Date
+ORD1000,CUST299,North,Fan,Home and Kitchen,,missing,-1662,three,2024/03/02
+ORD1001,CUST140,North,TV,furnitures,16334.0,,-2389,3,2024/03/02
+ORD1002,CUST538,North,Lamp,electronic,,13205,4412,three,March 11 2024
+ORD1003,CUST443,WEST,Sofa,Home & Kitchen,19884.0,21296,-2516,two,2024/03/02
+ORD1004,CUST243,WEST,TV,Home & Kitchen,20602.0,missing,7560,1,not available
+ORD1005,CUST279,WEST,Chair,Furniture,,missing,4991,three,2024-01-15
+ORD1006,CUST500,South,Lamp,Electronics,,,3754,2,2024/03/02
+ORD1007,CUST711,South,Lamp,furnitures,,missing,-2246,1,2024-01-15
+ORD1008,CUST334,East,Bottle,furnitures,40583.0,,-3313,1,March 11 2024
+ORD1009,CUST405,WEST,Fan,Home and Kitchen,37611.0,,4910,1,March 11 2024
+ORD1010,CUST643,North,AC,Furniture,,,-4994,three,2024-01-15
+ORD1011,CUST341,North,Sofa,Home & Kitchen,,22514,6394,1,15/02/2024
+ORD1012,CUST346,WEST,AC,Home & Kitchen,32884.0,44024,8500,1,2024/03/02
+ORD1013,CUST153,north,Grinder,Home and Kitchen,,missing,3514,three,not available
+ORD1014,CUST304,South,TV,Electronics,,,-2264,three,not available
+ORD1015,CUST803,East,Lamp,electronic,,,3284,two,not available
+ORD1016,CUST578,WEST,Fan,Home and Kitchen,8361.0,40746,4079,2,March 11 2024
+ORD1017,CUST931,north,Bottle,Home and Kitchen,,,-3519,3,March 11 2024
+ORD1018,CUST506,WEST,Sofa,furnitures,15963.0,24373,-4930,three,2024-01-15
+ORD1019,CUST201,WEST,Table,furnitures,8139.0,,8308,two,not available
+ORD1020,CUST819,South,Sofa,Furniture,,missing,-4736,1,March 11 2024
+ORD1021,CUST913,South,Sofa,Furniture,30246.0,,3381,1,15/02/2024
+ORD1022,CUST511,North,AC,Home and Kitchen,15843.0,17537,513,three,not available
+ORD1023,CUST714,East,Sofa,Furniture,,1585,-1007,3,not available
+ORD1024,CUST681,North,AC,furnitures,48315.0,missing,1795,three,2024/03/02
+ORD1025,CUST511,WEST,Grinder,Home & Kitchen,12372.0,,-4589,1,2024-01-15
+ORD1026,CUST830,north,Fan,Home & Kitchen,,,-2712,2,15/02/2024
+ORD1027,CUST637,south,Bottle,Furniture,,,602,1,2024/03/02
+ORD1028,CUST471,south,AC,furnitures,,missing,-1237,3,15/02/2024
+ORD1029,CUST864,north,Lamp,Home and Kitchen,3304.0,,4535,3,2024/03/02
+ORD1030,CUST730,south,Fan,Home & Kitchen,17966.0,,5471,3,not available
+ORD1031,CUST958,East,TV,Home and Kitchen,,31345,2655,three,not available
+ORD1032,CUST965,north,Fan,Furniture,,26636,509,3,15/02/2024
+ORD1033,CUST803,WEST,TV,Home and Kitchen,,43628,-3750,2,2024/03/02
+ORD1034,CUST929,south,Bottle,Furniture,,,8327,2,March 11 2024
+ORD1035,CUST539,East,TV,Home & Kitchen,32608.0,missing,8625,two,March 11 2024
+ORD1036,CUST893,South,TV,Electronics,,22661,6609,2,2024-01-15
+ORD1037,CUST648,north,Table,furnitures,47259.0,42984,-3728,1,not available
+ORD1038,CUST543,WEST,Grinder,Home & Kitchen,,41404,4251,3,15/02/2024
+ORD1039,CUST310,South,Fan,Electronics,35274.0,33168,8280,two,15/02/2024
+ORD1040,CUST496,South,Bottle,furnitures,39216.0,17731,3236,2,2024-01-15
+ORD1041,CUST875,East,AC,Home and Kitchen,49549.0,,8521,1,not available
+ORD1042,CUST319,north,Mixer,Home and Kitchen,,,-4097,2,2024/03/02
+ORD1043,CUST911,north,Bottle,electronic,27656.0,missing,1788,three,2024/03/02
+ORD1044,CUST527,south,Table,Home & Kitchen,43305.0,missing,-4290,1,March 11 2024
+ORD1045,CUST257,North,Fan,Electronics,,missing,4109,three,2024/03/02
+ORD1046,CUST955,South,Table,Furniture,,missing,6440,2,not available
+ORD1047,CUST395,south,Table,Home & Kitchen,30416.0,,-949,two,March 11 2024
+ORD1048,CUST245,South,Chair,Furniture,,42562,9185,two,2024-01-15
+ORD1049,CUST142,north,Lamp,Electronics,,,1338,two,not available
+ORD1050,CUST575,South,Mixer,Electronics,24163.0,,-2735,three,March 11 2024
+ORD1051,CUST130,North,Bottle,Electronics,2842.0,13072,3938,2,2024-01-15
+ORD1052,CUST330,South,Fan,Electronics,,37582,6660,1,2024/03/02
+ORD1053,CUST336,south,Bottle,electronic,7931.0,,-1448,3,2024-01-15
+ORD1054,CUST168,South,Lamp,electronic,,,-393,two,March 11 2024
+ORD1055,CUST491,East,Lamp,furnitures,18443.0,,6676,3,2024-01-15
+ORD1056,CUST935,South,Bottle,Home & Kitchen,,missing,1799,1,March 11 2024
+ORD1057,CUST452,north,TV,Furniture,,2011,8692,1,2024-01-15
+ORD1058,CUST295,north,Lamp,Home and Kitchen,,missing,1565,3,not available
+ORD1059,CUST209,South,Fan,Home and Kitchen,17324.0,29096,9786,3,15/02/2024
+ORD1060,CUST217,South,Table,Furniture,5485.0,36852,6160,two,2024-01-15
+ORD1061,CUST471,north,Fan,electronic,,,5438,three,March 11 2024
+ORD1062,CUST327,South,Chair,Electronics,,30001,1366,three,March 11 2024
+ORD1063,CUST217,North,Bottle,Furniture,,31288,2815,2,March 11 2024
+ORD1064,CUST875,north,TV,Furniture,36883.0,,7374,1,2024/03/02
+ORD1065,CUST749,WEST,Fan,furnitures,49297.0,,5436,two,March 11 2024
+ORD1066,CUST786,south,Mixer,Furniture,20617.0,,1681,2,March 11 2024
+ORD1067,CUST817,north,Chair,furnitures,,,9655,three,2024/03/02
+ORD1068,CUST434,East,Sofa,Furniture,18804.0,,7909,2,2024/03/02
+ORD1069,CUST873,North,AC,furnitures,23014.0,missing,-3785,three,2024/03/02
+ORD1070,CUST994,South,Sofa,electronic,,38892,-1831,3,March 11 2024
+ORD1071,CUST546,South,Sofa,electronic,23000.0,missing,-1854,3,March 11 2024
+ORD1072,CUST880,South,Table,electronic,23993.0,,9382,two,March 11 2024
+ORD1073,CUST802,south,TV,Electronics,39993.0,28257,-754,3,2024/03/02
+ORD1074,CUST961,WEST,AC,Home & Kitchen,,,7452,three,March 11 2024
+ORD1075,CUST505,WEST,Fan,Electronics,47570.0,31066,4188,2,15/02/2024
+ORD1076,CUST588,WEST,AC,Home and Kitchen,,44376,3884,1,15/02/2024
+ORD1077,CUST226,North,Bottle,Home & Kitchen,,,3808,two,15/02/2024
+ORD1078,CUST227,South,AC,Electronics,16822.0,7241,-3851,3,15/02/2024
+ORD1079,CUST920,East,Table,electronic,,10668,4188,three,2024-01-15
+ORD1080,CUST257,South,Mixer,furnitures,,25124,3111,1,2024/03/02
+ORD1081,CUST209,North,TV,Home & Kitchen,,12707,3311,3,15/02/2024
+ORD1082,CUST125,north,Chair,Electronics,26701.0,missing,8789,3,15/02/2024
+ORD1083,CUST115,South,AC,Home and Kitchen,,missing,2413,3,2024/03/02
+ORD1084,CUST828,north,Grinder,Home and Kitchen,35934.0,14538,8557,1,15/02/2024
+ORD1085,CUST374,south,Sofa,electronic,7895.0,,2049,3,2024-01-15
+ORD1086,CUST802,East,Table,furnitures,47890.0,20953,573,3,not available
+ORD1087,CUST981,East,Fan,furnitures,5715.0,33175,7422,two,2024/03/02
+ORD1088,CUST148,south,TV,furnitures,33283.0,missing,7514,3,March 11 2024
+ORD1089,CUST280,north,Bottle,Home and Kitchen,2299.0,,7580,two,15/02/2024
+ORD1090,CUST877,South,Grinder,Home & Kitchen,25950.0,,2808,2,15/02/2024
+ORD1091,CUST491,East,Sofa,furnitures,,19572,2477,2,not available
+ORD1092,CUST613,South,Sofa,Home and Kitchen,17240.0,missing,9905,2,not available
+ORD1093,CUST347,WEST,Mixer,electronic,41472.0,43825,6941,3,not available
+ORD1094,CUST862,North,Lamp,Home & Kitchen,,missing,-3713,three,March 11 2024
+ORD1095,CUST691,East,AC,electronic,,24475,-2794,2,2024/03/02
+ORD1096,CUST565,East,TV,Home and Kitchen,24229.0,missing,9584,1,not available
+ORD1097,CUST834,south,Fan,furnitures,30725.0,,-3540,two,2024-01-15
+ORD1098,CUST691,South,Fan,electronic,41464.0,38913,2926,two,2024-01-15
+ORD1099,CUST697,East,Bottle,furnitures,,14273,2690,1,not available
+ORD1100,CUST875,north,Sofa,furnitures,,,-4703,two,not available
+ORD1101,CUST672,WEST,Grinder,Furniture,30969.0,,1382,3,2024-01-15
+ORD1102,CUST674,South,Lamp,Home & Kitchen,44265.0,,4893,1,2024/03/02
+ORD1103,CUST685,North,Fan,Home & Kitchen,42653.0,,3751,3,March 11 2024
+ORD1104,CUST655,south,Chair,Home and Kitchen,9548.0,15702,3240,two,March 11 2024
+ORD1105,CUST806,North,AC,Electronics,,missing,7638,1,2024/03/02
+ORD1106,CUST878,South,Fan,Furniture,,,4786,2,March 11 2024
+ORD1107,CUST878,north,Lamp,Home & Kitchen,,44407,-4986,3,not available
+ORD1108,CUST909,south,AC,Furniture,,,9073,3,2024/03/02
+ORD1109,CUST328,East,Mixer,Home and Kitchen,33574.0,missing,-1145,1,15/02/2024
+ORD1110,CUST888,South,TV,Home & Kitchen,,2848,-1207,3,2024-01-15
+ORD1111,CUST231,WEST,AC,Home & Kitchen,43776.0,missing,-831,three,2024-01-15
+ORD1112,CUST827,south,Sofa,furnitures,3397.0,,3788,two,2024-01-15
+ORD1113,CUST183,north,Sofa,Home & Kitchen,26769.0,missing,5908,2,15/02/2024
+ORD1114,CUST562,North,Sofa,electronic,41934.0,missing,-17,two,15/02/2024
+ORD1115,CUST493,East,Bottle,furnitures,24097.0,missing,-1886,two,March 11 2024
+ORD1116,CUST269,East,Sofa,furnitures,36545.0,22075,5654,2,March 11 2024
+ORD1117,CUST819,East,Table,Electronics,11839.0,,-3368,3,2024/03/02
+ORD1118,CUST279,North,Mixer,Home & Kitchen,35017.0,missing,-1417,1,2024-01-15
+ORD1119,CUST131,WEST,Lamp,Home and Kitchen,10931.0,,4871,1,2024-01-15
+ORD1120,CUST309,south,Mixer,furnitures,,missing,9272,1,March 11 2024
+ORD1121,CUST323,South,Fan,furnitures,683.0,17061,4393,2,2024/03/02
+ORD1122,CUST195,North,Mixer,Home & Kitchen,45742.0,,8408,3,2024-01-15
+ORD1123,CUST111,north,Chair,furnitures,,,8989,two,2024-01-15
+ORD1124,CUST299,South,Lamp,electronic,46609.0,,-4195,three,2024-01-15
+ORD1125,CUST203,north,Fan,Home and Kitchen,33066.0,missing,1211,3,not available
+ORD1126,CUST772,north,Mixer,furnitures,19138.0,,3174,three,not available
+ORD1127,CUST525,north,TV,Home & Kitchen,25348.0,missing,-2553,two,not available
+ORD1128,CUST345,south,AC,Electronics,11110.0,44102,1305,1,2024-01-15
+ORD1129,CUST860,WEST,Table,Home and Kitchen,27344.0,missing,5548,two,2024-01-15
+ORD1130,CUST271,South,Bottle,furnitures,,31105,6101,3,not available
+ORD1131,CUST735,South,TV,Home & Kitchen,,13423,-1114,3,2024/03/02
+ORD1132,CUST912,north,Lamp,Furniture,,,8828,two,not available
+ORD1133,CUST324,South,Grinder,electronic,,missing,1264,2,2024-01-15
+ORD1134,CUST345,North,Sofa,Furniture,,13313,-2476,3,March 11 2024
+ORD1135,CUST343,North,Bottle,Home & Kitchen,,missing,1936,2,March 11 2024
+ORD1136,CUST454,WEST,Table,Home and Kitchen,12483.0,missing,9515,3,15/02/2024
+ORD1137,CUST220,WEST,Grinder,furnitures,36183.0,,8243,two,2024/03/02
+ORD1138,CUST583,WEST,Fan,Home & Kitchen,33654.0,33260,6622,1,not available
+ORD1139,CUST952,North,TV,Electronics,,missing,-4554,3,15/02/2024
+ORD1140,CUST441,East,Mixer,Furniture,48593.0,,-2588,2,15/02/2024
+ORD1141,CUST682,WEST,Chair,Home and Kitchen,,missing,6412,three,2024/03/02
+ORD1142,CUST994,WEST,Fan,Home and Kitchen,,16238,-2607,1,2024/03/02
+ORD1143,CUST440,WEST,Grinder,furnitures,,,3081,two,15/02/2024
+ORD1144,CUST909,north,TV,Furniture,,18028,-1910,two,2024-01-15
+ORD1145,CUST186,North,Mixer,Home & Kitchen,,24825,1706,two,not available
+ORD1146,CUST675,WEST,Grinder,furnitures,,missing,-1501,three,2024/03/02
+ORD1147,CUST901,south,Chair,electronic,8783.0,missing,-4813,3,15/02/2024
+ORD1148,CUST857,North,AC,electronic,,41173,293,1,15/02/2024
+ORD1149,CUST339,North,AC,Furniture,,44388,9667,two,2024-01-15
+ORD1150,CUST635,WEST,Fan,Home and Kitchen,,,6640,two,March 11 2024
+ORD1151,CUST846,north,AC,Electronics,40550.0,missing,3109,3,15/02/2024
+ORD1152,CUST520,North,Lamp,Home and Kitchen,6532.0,3235,7302,2,March 11 2024
+ORD1153,CUST483,South,Lamp,Home and Kitchen,45861.0,11188,-4826,three,15/02/2024
+ORD1154,CUST915,south,Table,Home & Kitchen,12025.0,22741,4915,three,2024-01-15
+ORD1155,CUST550,north,Table,furnitures,,26584,7817,three,2024-01-15
+ORD1156,CUST205,WEST,TV,Electronics,,40542,-2157,2,2024-01-15
+ORD1157,CUST308,East,Table,Home and Kitchen,,,-2835,3,not available
+ORD1158,CUST866,south,Sofa,Electronics,,,3620,3,2024/03/02
+ORD1159,CUST521,WEST,Mixer,electronic,20561.0,missing,9372,three,15/02/2024
+ORD1160,CUST102,East,Table,Home and Kitchen,,38821,-4905,three,2024-01-15
+ORD1161,CUST337,north,Table,Electronics,47470.0,,-2666,1,15/02/2024
+ORD1162,CUST327,South,Lamp,electronic,35663.0,24124,3299,3,2024/03/02
+ORD1163,CUST504,South,Mixer,electronic,37951.0,missing,-4092,3,2024/03/02
+ORD1164,CUST870,WEST,Grinder,electronic,12616.0,missing,5345,3,March 11 2024
+ORD1165,CUST751,North,TV,Electronics,,missing,4389,2,not available
+ORD1166,CUST128,WEST,Grinder,electronic,,30598,9059,1,March 11 2024
+ORD1167,CUST269,south,Sofa,Electronics,17008.0,26533,-3306,three,2024/03/02
+ORD1168,CUST967,WEST,Table,Furniture,19112.0,,2254,1,2024-01-15
+ORD1169,CUST162,WEST,Chair,Electronics,,,4192,2,2024-01-15
+ORD1170,CUST373,South,Mixer,Electronics,25962.0,missing,-1819,2,15/02/2024
+ORD1171,CUST398,East,AC,Home & Kitchen,,,-1589,1,2024-01-15
+ORD1172,CUST419,East,Table,Electronics,,missing,7994,three,March 11 2024
+ORD1173,CUST403,WEST,Sofa,Home & Kitchen,47513.0,36173,2262,1,2024-01-15
+ORD1174,CUST334,WEST,Fan,furnitures,,,2229,2,15/02/2024
+ORD1175,CUST222,south,Bottle,furnitures,,missing,-3825,1,2024/03/02
+ORD1176,CUST915,south,Sofa,Home & Kitchen,,2493,-3160,two,2024-01-15
+ORD1177,CUST791,WEST,Sofa,Electronics,,missing,551,three,2024/03/02
+ORD1178,CUST406,south,Fan,Home & Kitchen,41559.0,missing,1429,1,2024/03/02
+ORD1179,CUST896,north,Grinder,Furniture,7556.0,missing,-3425,3,15/02/2024
+ORD1180,CUST260,East,Bottle,furnitures,43186.0,433,7060,two,March 11 2024
+ORD1181,CUST732,North,Fan,Home & Kitchen,,44284,4938,3,15/02/2024
+ORD1182,CUST697,north,Grinder,furnitures,,,6038,three,March 11 2024
+ORD1183,CUST741,South,AC,Home & Kitchen,31043.0,missing,5587,2,not available
+ORD1184,CUST461,WEST,Table,furnitures,17788.0,43349,2952,2,2024/03/02
+ORD1185,CUST279,south,Grinder,electronic,,25796,2377,1,15/02/2024
+ORD1186,CUST267,North,Bottle,furnitures,8505.0,missing,2774,three,15/02/2024
+ORD1187,CUST415,north,TV,furnitures,13456.0,,-3564,two,not available
+ORD1188,CUST463,north,Fan,Furniture,,13612,3321,two,15/02/2024
+ORD1189,CUST517,South,Sofa,Furniture,38773.0,missing,8057,2,2024/03/02
+ORD1190,CUST840,North,TV,Electronics,,missing,4028,3,2024/03/02
+ORD1191,CUST531,north,TV,Electronics,,,4141,2,15/02/2024
+ORD1192,CUST216,East,Fan,furnitures,45847.0,missing,-1480,1,March 11 2024
+ORD1193,CUST263,North,Fan,Home and Kitchen,28381.0,missing,9933,2,2024/03/02
+ORD1194,CUST432,East,Sofa,Electronics,24627.0,missing,-916,2,not available
+ORD1195,CUST847,WEST,Table,Furniture,14830.0,missing,-770,three,2024/03/02
+ORD1196,CUST728,North,Lamp,Furniture,,,-4871,1,15/02/2024
+ORD1197,CUST179,north,Table,electronic,,7577,-2149,3,2024/03/02
+ORD1198,CUST694,WEST,Fan,furnitures,32782.0,,4839,three,not available
+ORD1199,CUST452,WEST,AC,furnitures,,421,7105,1,not available
+ORD1200,CUST669,south,Lamp,furnitures,,,5020,3,15/02/2024
+ORD1201,CUST580,East,Chair,electronic,,9398,6464,two,15/02/2024
+ORD1202,CUST590,East,Bottle,Furniture,,missing,4880,3,15/02/2024
+ORD1203,CUST694,WEST,Bottle,furnitures,43497.0,,-32,three,not available
+ORD1204,CUST665,North,Bottle,Home and Kitchen,40930.0,,8826,3,2024-01-15
+ORD1205,CUST328,WEST,Bottle,Electronics,29019.0,18117,3534,1,not available
+ORD1206,CUST539,South,Fan,Furniture,,9473,4981,two,2024/03/02
+ORD1207,CUST135,north,Grinder,Home & Kitchen,14300.0,,3903,3,15/02/2024
+ORD1208,CUST446,East,Bottle,furnitures,39852.0,,2663,2,15/02/2024
+ORD1209,CUST188,north,Mixer,Home and Kitchen,,,7345,3,2024-01-15
+ORD1210,CUST459,WEST,Grinder,Furniture,44280.0,,-723,2,15/02/2024
+ORD1211,CUST370,WEST,TV,Electronics,,,-4838,2,2024/03/02
+ORD1212,CUST558,WEST,Lamp,electronic,,missing,7603,two,not available
+ORD1213,CUST417,south,Chair,Furniture,,,6872,1,2024-01-15
+ORD1214,CUST612,south,Lamp,Furniture,46781.0,5631,494,2,2024-01-15
+ORD1215,CUST844,WEST,Mixer,Home and Kitchen,,3526,-4833,1,not available
+ORD1216,CUST289,WEST,Lamp,Home and Kitchen,,missing,2683,3,March 11 2024
+ORD1217,CUST644,north,Table,Furniture,,,-1382,three,2024/03/02
+ORD1218,CUST686,North,AC,Home & Kitchen,,20313,1358,1,not available
+ORD1219,CUST519,South,Lamp,electronic,31618.0,23842,4690,1,2024/03/02
+ORD1220,CUST137,East,Grinder,Furniture,9545.0,4666,5652,3,2024-01-15
+ORD1221,CUST183,South,Grinder,Electronics,48573.0,,8222,three,not available
+ORD1222,CUST897,South,Grinder,Home and Kitchen,4694.0,19682,1096,3,2024-01-15
+ORD1223,CUST159,South,Grinder,electronic,37579.0,,3178,3,15/02/2024
+ORD1224,CUST908,WEST,Table,Furniture,22416.0,missing,9300,1,not available
+ORD1225,CUST811,north,Table,Home & Kitchen,35941.0,1074,-635,2,15/02/2024
+ORD1226,CUST803,South,TV,Home & Kitchen,17756.0,745,-2610,two,15/02/2024
+ORD1227,CUST223,north,Grinder,Home & Kitchen,42884.0,,795,1,not available
+ORD1228,CUST135,WEST,Grinder,Electronics,39953.0,34725,2841,1,2024/03/02
+ORD1229,CUST476,East,Sofa,Home & Kitchen,38070.0,,8742,three,not available
+ORD1230,CUST515,WEST,Sofa,Furniture,,missing,3390,two,15/02/2024
+ORD1231,CUST444,North,Table,electronic,22869.0,26656,-2151,3,2024/03/02
+ORD1232,CUST181,WEST,TV,Home & Kitchen,41844.0,missing,6488,2,15/02/2024
+ORD1233,CUST962,WEST,TV,Home and Kitchen,14932.0,,325,1,March 11 2024
+ORD1234,CUST909,WEST,Bottle,Home & Kitchen,18533.0,,9375,2,March 11 2024
+ORD1235,CUST926,north,Chair,electronic,37637.0,missing,1539,1,not available
+ORD1236,CUST370,South,Lamp,Electronics,22069.0,,1423,2,2024/03/02
+ORD1237,CUST451,South,Table,electronic,27308.0,,1681,3,2024-01-15
+ORD1238,CUST976,North,Lamp,Electronics,,missing,2217,two,not available
+ORD1239,CUST858,South,Mixer,furnitures,,43512,5461,two,not available
+ORD1240,CUST139,WEST,Table,electronic,,35595,9720,1,2024/03/02
+ORD1241,CUST423,south,Fan,electronic,,,1470,three,2024/03/02
+ORD1242,CUST420,East,Bottle,Home & Kitchen,41827.0,missing,7398,three,2024-01-15
+ORD1243,CUST998,WEST,TV,Electronics,,,-1562,2,March 11 2024
+ORD1244,CUST631,East,Grinder,Electronics,,,-3841,3,March 11 2024
+ORD1245,CUST989,North,AC,electronic,,missing,-414,two,2024/03/02
+ORD1246,CUST835,south,Fan,furnitures,45832.0,missing,958,three,2024/03/02
+ORD1247,CUST786,WEST,TV,Furniture,,43949,360,three,15/02/2024
+ORD1248,CUST155,south,Sofa,Furniture,14988.0,missing,5510,3,15/02/2024
+ORD1249,CUST967,WEST,TV,Furniture,40279.0,missing,-1342,three,2024/03/02
+ORD1250,CUST238,north,AC,furnitures,49781.0,42053,-1785,three,not available
+ORD1251,CUST118,South,Lamp,Home & Kitchen,4437.0,8792,3384,2,not available
+ORD1252,CUST425,south,Chair,furnitures,47443.0,missing,-4142,three,2024/03/02
+ORD1253,CUST514,WEST,Lamp,Furniture,22195.0,34004,-3838,two,not available
+ORD1254,CUST510,WEST,Lamp,furnitures,10960.0,missing,2538,3,2024-01-15
+ORD1255,CUST590,East,AC,furnitures,,,5213,3,2024/03/02
+ORD1256,CUST384,WEST,Table,Home and Kitchen,,,9731,two,not available
+ORD1257,CUST308,North,Lamp,Home and Kitchen,15837.0,,-4763,three,15/02/2024
+ORD1258,CUST887,North,Bottle,furnitures,10388.0,,-3205,1,2024-01-15
+ORD1259,CUST327,north,Table,furnitures,36960.0,,3077,two,not available
+ORD1260,CUST251,East,Bottle,Home and Kitchen,16976.0,37519,1421,2,2024/03/02
+ORD1261,CUST627,south,TV,electronic,,,6830,1,2024-01-15
+ORD1262,CUST185,north,AC,Electronics,,missing,5163,two,15/02/2024
+ORD1263,CUST763,WEST,TV,Home and Kitchen,,29497,-3879,three,March 11 2024
+ORD1264,CUST706,north,Chair,Electronics,6436.0,,6132,3,March 11 2024
+ORD1265,CUST125,south,TV,Furniture,639.0,missing,-2595,2,not available
+ORD1266,CUST562,North,Sofa,furnitures,39658.0,,6987,two,2024/03/02
+ORD1267,CUST638,South,Mixer,furnitures,42342.0,6227,4697,two,15/02/2024
+ORD1268,CUST950,north,Bottle,Home and Kitchen,8050.0,missing,4159,three,not available
+ORD1269,CUST660,WEST,Lamp,Home & Kitchen,,missing,8502,three,2024-01-15
+ORD1270,CUST726,north,TV,electronic,3759.0,missing,-270,three,March 11 2024
+ORD1271,CUST757,south,Sofa,electronic,30605.0,missing,-1650,1,not available
+ORD1272,CUST694,WEST,Bottle,Furniture,4242.0,,3941,two,2024-01-15
+ORD1273,CUST972,south,Lamp,Furniture,,missing,1109,three,March 11 2024
+ORD1274,CUST871,WEST,Lamp,Home and Kitchen,8065.0,,3627,1,not available
+ORD1275,CUST664,south,AC,Electronics,46116.0,,6080,two,not available
+ORD1276,CUST189,WEST,Lamp,Home & Kitchen,22938.0,missing,-376,1,not available
+ORD1277,CUST826,north,Table,Furniture,,missing,3588,1,2024-01-15
+ORD1278,CUST861,North,Table,Home and Kitchen,47987.0,33961,326,three,15/02/2024
+ORD1279,CUST601,North,Grinder,Electronics,3339.0,missing,7043,three,March 11 2024
+ORD1280,CUST739,North,AC,electronic,46638.0,18156,-3820,two,March 11 2024
+ORD1281,CUST633,south,Sofa,Home and Kitchen,,missing,-3542,2,2024-01-15
+ORD1282,CUST490,East,Chair,Home and Kitchen,18633.0,,-4721,three,not available
+ORD1283,CUST981,south,Grinder,Furniture,,missing,8298,1,2024-01-15
+ORD1284,CUST690,South,Bottle,Home and Kitchen,,missing,1403,three,March 11 2024
+ORD1285,CUST836,north,Chair,furnitures,,,-4966,1,2024/03/02
+ORD1286,CUST106,East,Fan,Home and Kitchen,,missing,2988,2,not available
+ORD1287,CUST816,South,Mixer,electronic,,missing,3802,3,2024/03/02
+ORD1288,CUST701,East,Bottle,Home and Kitchen,37523.0,missing,-713,two,15/02/2024
+ORD1289,CUST208,South,Chair,Home and Kitchen,24180.0,missing,4620,3,not available
+ORD1290,CUST324,North,Table,Electronics,,,9301,3,March 11 2024
+ORD1291,CUST153,East,Bottle,Electronics,18353.0,,-183,three,not available
+ORD1292,CUST973,WEST,Sofa,furnitures,13918.0,7855,9908,three,not available
+ORD1293,CUST578,north,AC,Home & Kitchen,,missing,-1927,three,15/02/2024
+ORD1294,CUST316,WEST,Fan,Home & Kitchen,,,1477,3,2024/03/02
+ORD1295,CUST720,WEST,TV,Home and Kitchen,39077.0,41097,6281,1,not available
+ORD1296,CUST451,East,Mixer,Electronics,,36386,4377,2,15/02/2024
+ORD1297,CUST393,WEST,Bottle,electronic,,16684,-3816,1,2024-01-15
+ORD1298,CUST964,East,Chair,Furniture,32841.0,,-4663,3,2024-01-15
+ORD1299,CUST180,North,Fan,electronic,,4383,824,three,2024-01-15
+ORD1300,CUST602,East,AC,Furniture,,32526,-2960,three,2024-01-15
+ORD1301,CUST526,WEST,Grinder,Home and Kitchen,,22662,2630,three,2024/03/02
+ORD1302,CUST740,north,AC,electronic,,14670,2103,3,15/02/2024
+ORD1303,CUST949,East,AC,electronic,,,-1623,3,March 11 2024
+ORD1304,CUST636,East,Mixer,electronic,,28187,35,1,2024/03/02
+ORD1305,CUST490,East,AC,Furniture,,14986,6203,1,March 11 2024
+ORD1306,CUST373,East,Lamp,electronic,,missing,4549,3,2024-01-15
+ORD1307,CUST140,south,Sofa,Home & Kitchen,43621.0,missing,-3310,2,2024/03/02
+ORD1308,CUST995,North,Fan,Furniture,,39690,4127,three,2024-01-15
+ORD1309,CUST488,north,AC,Home and Kitchen,,,-3145,2,15/02/2024
+ORD1310,CUST548,WEST,Bottle,Electronics,,,1014,three,15/02/2024
+ORD1311,CUST119,south,TV,Electronics,22162.0,,5441,3,2024-01-15
+ORD1312,CUST675,north,Chair,electronic,28302.0,missing,7800,three,not available
+ORD1313,CUST634,south,Bottle,Furniture,,,-852,1,2024/03/02
+ORD1314,CUST839,South,AC,Home and Kitchen,49737.0,missing,544,three,2024-01-15
+ORD1315,CUST707,South,Chair,Furniture,,32073,1207,1,2024/03/02
+ORD1316,CUST841,south,Lamp,Electronics,,missing,4039,three,not available
+ORD1317,CUST120,East,Fan,Home and Kitchen,,656,1668,2,2024/03/02
+ORD1318,CUST177,north,AC,Home and Kitchen,1781.0,missing,6710,2,15/02/2024
+ORD1319,CUST649,South,Lamp,Furniture,48432.0,,-4670,2,not available
+ORD1320,CUST477,South,Chair,Furniture,,43900,-741,2,15/02/2024
+ORD1321,CUST208,South,Fan,Home & Kitchen,39199.0,missing,5176,2,March 11 2024
+ORD1322,CUST702,East,Lamp,furnitures,,missing,5157,2,March 11 2024
+ORD1323,CUST227,north,Table,Electronics,44004.0,missing,9323,three,2024-01-15
+ORD1324,CUST692,East,Bottle,Furniture,,,2172,three,2024/03/02
+ORD1325,CUST796,South,Mixer,Home and Kitchen,49229.0,28235,1085,2,2024-01-15
+ORD1326,CUST776,north,Chair,electronic,4701.0,missing,7535,three,2024/03/02
+ORD1327,CUST594,WEST,Chair,Furniture,6936.0,,4038,two,15/02/2024
+ORD1328,CUST196,south,AC,Electronics,,34344,285,2,2024/03/02
+ORD1329,CUST686,WEST,Grinder,furnitures,10991.0,missing,8725,1,not available
+ORD1330,CUST554,WEST,Chair,Electronics,,missing,327,2,2024/03/02
+ORD1331,CUST495,south,Mixer,Furniture,,,-3124,2,15/02/2024
+ORD1332,CUST167,South,Bottle,Home and Kitchen,,,-105,1,2024/03/02
+ORD1333,CUST950,South,Lamp,electronic,,,1210,1,2024-01-15
+ORD1334,CUST796,North,TV,electronic,,12936,7837,2,March 11 2024
+ORD1335,CUST288,south,Chair,Electronics,8497.0,,-2394,2,2024-01-15
+ORD1336,CUST772,East,Sofa,electronic,35961.0,missing,-3171,2,15/02/2024
+ORD1337,CUST262,WEST,Fan,Electronics,47193.0,missing,-2115,1,15/02/2024
+ORD1338,CUST493,South,Lamp,Electronics,2943.0,missing,2895,3,2024/03/02
+ORD1339,CUST269,South,Grinder,Electronics,43093.0,17034,9892,1,2024/03/02
+ORD1340,CUST955,south,Mixer,Furniture,,5047,8613,three,15/02/2024
+ORD1341,CUST459,south,Bottle,Electronics,,35748,18,1,15/02/2024
+ORD1342,CUST789,South,TV,Home & Kitchen,,,-3266,2,2024-01-15
+ORD1343,CUST158,south,Chair,electronic,46815.0,14882,-1702,1,not available
+ORD1344,CUST630,south,Table,electronic,,missing,-4912,2,15/02/2024
+ORD1345,CUST928,South,TV,electronic,,,8722,1,2024/03/02
+ORD1346,CUST683,south,Grinder,Furniture,,missing,4867,2,2024-01-15
+ORD1347,CUST658,North,Mixer,Furniture,23917.0,36022,1624,2,March 11 2024
+ORD1348,CUST404,South,Grinder,Electronics,,,4239,1,2024-01-15
+ORD1349,CUST174,WEST,Bottle,Furniture,,,2304,3,2024-01-15
+ORD1350,CUST373,South,Chair,electronic,37226.0,missing,3780,two,2024-01-15
+ORD1351,CUST635,south,Grinder,Home and Kitchen,42458.0,2424,-4533,three,15/02/2024
+ORD1352,CUST174,north,Grinder,Furniture,,,-4705,1,2024-01-15
+ORD1353,CUST909,South,Fan,Home & Kitchen,,missing,6360,three,not available
+ORD1354,CUST144,North,Fan,Home & Kitchen,,31296,1813,two,not available
+ORD1355,CUST917,East,Lamp,electronic,8631.0,,4200,2,March 11 2024
+ORD1356,CUST233,WEST,Fan,electronic,32478.0,,864,2,2024/03/02
+ORD1357,CUST813,South,Fan,Home and Kitchen,18002.0,missing,-2953,1,March 11 2024
+ORD1358,CUST601,East,TV,Home & Kitchen,,missing,-4049,two,15/02/2024
+ORD1359,CUST942,north,Sofa,furnitures,,,5956,three,not available
+ORD1360,CUST876,north,AC,furnitures,19784.0,38310,-4750,2,15/02/2024
+ORD1361,CUST564,north,Lamp,Electronics,10120.0,,-2963,two,not available
+ORD1362,CUST792,North,Fan,Home & Kitchen,,13348,7472,3,not available
+ORD1363,CUST829,East,Bottle,furnitures,13091.0,missing,-4964,3,2024/03/02
+ORD1364,CUST235,North,Lamp,electronic,13977.0,,3534,3,2024/03/02
+ORD1365,CUST558,East,Mixer,Home and Kitchen,,1563,2389,two,March 11 2024
+ORD1366,CUST241,East,Sofa,Home & Kitchen,42350.0,,1323,3,2024-01-15
+ORD1367,CUST398,East,Table,electronic,,missing,5640,two,not available
+ORD1368,CUST624,WEST,Sofa,Furniture,,missing,702,1,March 11 2024
+ORD1369,CUST727,North,Bottle,Home & Kitchen,,missing,-2506,2,not available
+ORD1370,CUST725,North,Chair,Electronics,,,7437,two,2024-01-15
+ORD1371,CUST578,WEST,TV,Electronics,,,5154,1,not available
+ORD1372,CUST622,south,Fan,Home and Kitchen,44155.0,44879,9627,3,15/02/2024
+ORD1373,CUST966,WEST,Bottle,Home and Kitchen,,,2183,3,March 11 2024
+ORD1374,CUST637,North,AC,electronic,36539.0,missing,-4762,two,15/02/2024
+ORD1375,CUST317,East,Table,furnitures,,missing,6845,three,2024/03/02
+ORD1376,CUST737,south,Bottle,Furniture,,,-4783,three,2024/03/02
+ORD1377,CUST318,East,Chair,furnitures,,,8960,3,not available
+ORD1378,CUST598,North,AC,Home & Kitchen,,13888,-530,3,2024/03/02
+ORD1379,CUST933,WEST,Bottle,Furniture,,8550,-4904,2,2024/03/02
+ORD1380,CUST133,south,Grinder,Home and Kitchen,,1771,2851,three,not available
+ORD1381,CUST199,South,Lamp,electronic,15196.0,missing,1697,three,15/02/2024
+ORD1382,CUST601,WEST,Fan,Home and Kitchen,7644.0,,5965,two,March 11 2024
+ORD1383,CUST248,South,Mixer,electronic,41448.0,16335,-3258,3,2024-01-15
+ORD1384,CUST728,WEST,Lamp,Home & Kitchen,19135.0,missing,-2040,two,2024-01-15
+ORD1385,CUST740,north,Sofa,Home and Kitchen,24559.0,18080,8093,two,2024-01-15
+ORD1386,CUST238,East,TV,Home and Kitchen,34355.0,2557,-2602,3,15/02/2024
+ORD1387,CUST829,South,Mixer,electronic,,2079,3680,three,15/02/2024
+ORD1388,CUST269,north,Sofa,Furniture,3330.0,,1013,2,2024-01-15
+ORD1389,CUST688,South,Fan,electronic,14867.0,27262,6408,2,March 11 2024
+ORD1390,CUST584,north,Table,Electronics,,32636,-402,three,not available
+ORD1391,CUST247,South,Bottle,Home and Kitchen,,,7310,2,March 11 2024
+ORD1392,CUST216,WEST,Grinder,Electronics,46342.0,missing,5341,2,not available
+ORD1393,CUST134,south,Table,Home & Kitchen,,missing,6478,two,not available
+ORD1394,CUST414,East,Chair,Furniture,28578.0,44309,8039,two,not available
+ORD1395,CUST400,South,Chair,electronic,7268.0,20276,7974,2,2024-01-15
+ORD1396,CUST914,WEST,TV,furnitures,,,-591,three,not available
+ORD1397,CUST109,south,Bottle,furnitures,,,3265,three,15/02/2024
+ORD1398,CUST223,North,Mixer,Home & Kitchen,32419.0,,-1858,1,not available
+ORD1399,CUST121,south,Lamp,furnitures,14643.0,30753,5716,1,15/02/2024
+ORD1400,CUST726,East,Mixer,Home & Kitchen,,missing,-3844,3,not available
+ORD1401,CUST531,North,Sofa,Electronics,,missing,-1138,2,2024/03/02
+ORD1402,CUST706,north,Table,Electronics,32723.0,,-3196,3,not available
+ORD1403,CUST618,south,Table,Furniture,29686.0,,4276,1,15/02/2024
+ORD1404,CUST463,East,Fan,Furniture,,32124,-2457,two,2024-01-15
+ORD1405,CUST452,North,Chair,Home & Kitchen,7080.0,,-1669,1,not available
+ORD1406,CUST589,East,Chair,electronic,,26376,-2359,three,2024/03/02
+ORD1407,CUST108,South,Bottle,Home & Kitchen,29914.0,1509,-3875,3,2024/03/02
+ORD1408,CUST435,WEST,Fan,Home and Kitchen,19002.0,missing,4563,2,2024/03/02
+ORD1409,CUST656,WEST,TV,Furniture,,,-4189,3,2024-01-15
+ORD1410,CUST827,North,Fan,electronic,,25494,7067,three,March 11 2024
+ORD1411,CUST542,South,TV,Home and Kitchen,22520.0,missing,-2825,1,March 11 2024
+ORD1412,CUST587,South,Grinder,Furniture,33337.0,,4541,2,2024-01-15
+ORD1413,CUST180,North,AC,Electronics,38008.0,3221,-2589,3,not available
+ORD1414,CUST216,South,Sofa,Home and Kitchen,37222.0,missing,2649,1,15/02/2024
+ORD1415,CUST558,north,TV,Home and Kitchen,,455,4179,2,March 11 2024
+ORD1416,CUST193,East,AC,Furniture,31106.0,missing,-4405,three,15/02/2024
+ORD1417,CUST923,WEST,Fan,Electronics,,32570,6590,3,15/02/2024
+ORD1418,CUST229,East,Mixer,Home & Kitchen,,missing,3597,three,March 11 2024
+ORD1419,CUST294,south,Grinder,furnitures,45810.0,missing,5337,three,not available
+ORD1420,CUST843,North,Grinder,Furniture,13231.0,,2683,3,15/02/2024
+ORD1421,CUST834,East,Mixer,furnitures,10114.0,,8980,2,2024/03/02
+ORD1422,CUST457,north,Lamp,Home & Kitchen,,,2794,3,2024-01-15
+ORD1423,CUST758,north,Sofa,furnitures,,15561,694,1,2024/03/02
+ORD1424,CUST464,North,Table,Electronics,22030.0,8905,4485,3,2024-01-15
+ORD1425,CUST288,south,Lamp,furnitures,5534.0,,5621,1,2024-01-15
+ORD1426,CUST547,East,Chair,Electronics,,,5691,2,2024/03/02
+ORD1427,CUST690,south,Grinder,Furniture,,30175,-4050,three,not available
+ORD1428,CUST433,south,Mixer,Home and Kitchen,,,839,1,March 11 2024
+ORD1429,CUST578,WEST,TV,electronic,,11552,-3647,1,15/02/2024
+ORD1430,CUST882,East,AC,Electronics,44131.0,,6535,2,March 11 2024
+ORD1431,CUST815,South,Bottle,Home and Kitchen,38195.0,9107,1809,1,2024/03/02
+ORD1432,CUST827,South,Fan,electronic,,,-3026,two,15/02/2024
+ORD1433,CUST361,South,Lamp,Home & Kitchen,,missing,9023,three,2024/03/02
+ORD1434,CUST536,WEST,Bottle,Furniture,,missing,774,3,not available
+ORD1435,CUST329,north,Table,electronic,,386,8875,two,2024/03/02
+ORD1436,CUST327,south,Bottle,Home & Kitchen,,,-1700,two,2024/03/02
+ORD1437,CUST995,south,Bottle,Home and Kitchen,,,723,three,15/02/2024
+ORD1438,CUST198,North,Lamp,electronic,,missing,7263,2,not available
+ORD1439,CUST954,East,Mixer,furnitures,25626.0,missing,-2880,three,15/02/2024
+ORD1440,CUST529,north,Bottle,furnitures,40876.0,,-2095,2,not available
+ORD1441,CUST570,south,AC,Electronics,,missing,-4601,1,not available
+ORD1442,CUST585,South,Bottle,Furniture,39686.0,13474,8638,two,not available
+ORD1443,CUST145,north,Mixer,Home & Kitchen,,,7372,2,15/02/2024
+ORD1444,CUST438,North,Fan,furnitures,21157.0,missing,7372,1,15/02/2024
+ORD1445,CUST338,South,AC,Furniture,45623.0,,8617,1,15/02/2024
+ORD1446,CUST658,north,Grinder,electronic,,,-3781,1,2024-01-15
+ORD1447,CUST384,south,Sofa,Electronics,16593.0,,4053,1,15/02/2024
+ORD1448,CUST567,East,TV,Home & Kitchen,36692.0,missing,8223,two,2024-01-15
+ORD1449,CUST495,south,TV,Furniture,,,9454,3,2024/03/02
+ORD1450,CUST650,North,Sofa,Home & Kitchen,,6395,-4211,2,2024-01-15
+ORD1451,CUST121,South,TV,electronic,8041.0,10512,5165,1,not available
+ORD1452,CUST801,South,Grinder,Home and Kitchen,,37306,325,2,March 11 2024
+ORD1453,CUST567,WEST,Sofa,furnitures,5692.0,,6811,two,2024/03/02
+ORD1454,CUST462,north,Grinder,furnitures,,21262,9447,1,2024-01-15
+ORD1455,CUST994,south,Chair,Home & Kitchen,10496.0,,4502,two,2024-01-15
+ORD1456,CUST673,South,Fan,Home & Kitchen,,33074,1207,three,2024-01-15
+ORD1457,CUST155,WEST,Chair,Home & Kitchen,37244.0,missing,-831,3,15/02/2024
+ORD1458,CUST486,south,Bottle,Home & Kitchen,37515.0,missing,6694,two,2024/03/02
+ORD1459,CUST411,North,Lamp,Home & Kitchen,19456.0,,-2625,three,not available
+ORD1460,CUST705,south,Table,Home and Kitchen,,5495,-2575,1,2024-01-15
+ORD1461,CUST985,north,AC,Home & Kitchen,,36137,-2516,3,March 11 2024
+ORD1462,CUST938,South,TV,Electronics,25406.0,37471,8853,two,2024-01-15
+ORD1463,CUST107,South,Table,Home and Kitchen,,,2899,2,2024/03/02
+ORD1464,CUST604,South,TV,Home & Kitchen,,,5546,2,2024-01-15
+ORD1465,CUST642,South,Chair,Home and Kitchen,,31760,-1625,three,2024/03/02
+ORD1466,CUST326,north,Sofa,Furniture,9004.0,14886,8426,2,2024-01-15
+ORD1467,CUST374,North,Sofa,Home & Kitchen,,missing,5698,3,2024-01-15
+ORD1468,CUST356,East,Fan,Electronics,,,-2809,three,2024/03/02
+ORD1469,CUST929,north,Mixer,furnitures,25051.0,missing,6197,3,2024-01-15
+ORD1470,CUST318,south,Mixer,Home and Kitchen,,missing,-163,three,2024/03/02
+ORD1471,CUST188,North,Bottle,Electronics,,9294,6196,two,March 11 2024
+ORD1472,CUST314,south,TV,furnitures,11845.0,43871,-2190,2,2024-01-15
+ORD1473,CUST568,East,Lamp,Home & Kitchen,23391.0,39913,-1671,1,not available
+ORD1474,CUST788,South,Fan,furnitures,,,-3106,1,2024-01-15
+ORD1475,CUST531,South,AC,Furniture,24419.0,missing,6722,two,2024-01-15
+ORD1476,CUST421,WEST,Bottle,Home & Kitchen,,,-1550,3,March 11 2024
+ORD1477,CUST580,North,Fan,Furniture,26137.0,38349,-3915,3,15/02/2024
+ORD1478,CUST465,south,TV,Electronics,2464.0,32365,7099,2,15/02/2024
+ORD1479,CUST838,north,Sofa,Home & Kitchen,3939.0,missing,7769,1,not available
+ORD1480,CUST241,South,Grinder,electronic,,,4188,three,2024-01-15
+ORD1481,CUST618,north,Bottle,electronic,,,178,three,2024/03/02
+ORD1482,CUST236,North,AC,Home & Kitchen,,missing,5221,2,2024/03/02
+ORD1483,CUST966,south,Grinder,Electronics,,,6948,three,2024-01-15
+ORD1484,CUST912,East,Sofa,electronic,,22405,9103,1,March 11 2024
+ORD1485,CUST397,south,Bottle,Home and Kitchen,11145.0,missing,3544,two,not available
+ORD1486,CUST903,WEST,Fan,Home & Kitchen,,missing,5089,2,15/02/2024
+ORD1487,CUST233,South,AC,Furniture,,30691,-4397,1,not available
+ORD1488,CUST178,north,Chair,Home & Kitchen,15766.0,39333,1532,1,15/02/2024
+ORD1489,CUST121,East,AC,Home and Kitchen,3606.0,19379,-4807,3,2024/03/02
+ORD1490,CUST300,WEST,Table,electronic,,6465,808,1,15/02/2024
+ORD1491,CUST650,South,Chair,Electronics,7625.0,,7623,3,not available
+ORD1492,CUST730,South,TV,furnitures,23218.0,32310,7845,three,March 11 2024
+ORD1493,CUST395,East,Grinder,Home and Kitchen,,,2599,three,March 11 2024
+ORD1494,CUST852,East,Fan,electronic,,,6505,2,not available
+ORD1495,CUST104,South,Fan,Furniture,,,3665,three,2024-01-15
+ORD1496,CUST977,south,Mixer,electronic,,,3423,three,not available
+ORD1497,CUST981,north,Table,Electronics,,missing,-3220,two,2024/03/02
+ORD1498,CUST263,north,Bottle,electronic,44934.0,17527,9194,1,not available
+ORD1499,CUST133,South,Grinder,Home & Kitchen,,,-2049,3,2024/03/02
+ORD1500,CUST647,South,AC,Furniture,31612.0,,-4508,two,2024-01-15
+ORD1501,CUST762,East,Bottle,Electronics,,missing,3878,1,2024/03/02
+ORD1502,CUST147,WEST,Fan,Electronics,41689.0,missing,270,3,March 11 2024
+ORD1503,CUST510,north,Fan,Furniture,11960.0,36718,8440,two,not available
+ORD1504,CUST958,WEST,Chair,Electronics,,missing,-4814,3,March 11 2024
+ORD1505,CUST175,South,Grinder,Home and Kitchen,7812.0,missing,4956,1,2024-01-15
+ORD1506,CUST805,East,Lamp,electronic,37926.0,4273,8979,two,15/02/2024
+ORD1507,CUST153,WEST,Fan,Home and Kitchen,22877.0,,6741,three,March 11 2024
+ORD1508,CUST815,WEST,Lamp,Home & Kitchen,16870.0,missing,9712,1,not available
+ORD1509,CUST364,East,Bottle,electronic,47412.0,12321,3350,1,15/02/2024
+ORD1510,CUST945,south,TV,Home & Kitchen,33618.0,,9573,two,15/02/2024
+ORD1511,CUST205,North,AC,Home and Kitchen,21010.0,3740,6619,3,not available
+ORD1512,CUST894,North,Grinder,Electronics,16222.0,,4248,1,2024-01-15
+ORD1513,CUST549,south,Chair,Home and Kitchen,,,8117,2,2024-01-15
+ORD1514,CUST816,East,Bottle,furnitures,37901.0,,3633,1,March 11 2024
+ORD1515,CUST777,WEST,Mixer,Electronics,,6477,8566,3,2024-01-15
+ORD1516,CUST212,south,Mixer,Home & Kitchen,,missing,7621,3,15/02/2024
+ORD1517,CUST443,south,AC,Home & Kitchen,,missing,-1751,2,March 11 2024
+ORD1518,CUST111,south,Lamp,Home and Kitchen,10797.0,,3580,3,15/02/2024
+ORD1519,CUST750,East,Table,Home & Kitchen,,,-3988,two,2024/03/02
+ORD1520,CUST226,south,Sofa,Home and Kitchen,46320.0,missing,7604,three,2024/03/02
+ORD1521,CUST410,south,Bottle,Home & Kitchen,41925.0,,8737,3,March 11 2024
+ORD1522,CUST559,north,Table,Electronics,,5658,2959,2,15/02/2024
+ORD1523,CUST199,south,Table,Home & Kitchen,4049.0,,-2472,2,15/02/2024
+ORD1524,CUST613,East,Table,Home & Kitchen,,,6998,three,15/02/2024
+ORD1525,CUST694,south,Fan,Home & Kitchen,49564.0,34103,877,1,2024-01-15
+ORD1526,CUST385,WEST,Chair,Home & Kitchen,23635.0,,9286,two,March 11 2024
+ORD1527,CUST867,WEST,TV,electronic,,13126,8753,three,2024/03/02
+ORD1528,CUST310,North,TV,furnitures,25690.0,,-2624,two,2024/03/02
+ORD1529,CUST847,South,AC,Furniture,,missing,296,3,2024/03/02
+ORD1530,CUST136,south,Table,furnitures,22860.0,missing,-4201,2,March 11 2024
+ORD1531,CUST920,WEST,Mixer,Home and Kitchen,,23668,4134,1,not available
+ORD1532,CUST236,North,Lamp,Home and Kitchen,,missing,161,1,not available
+ORD1533,CUST575,north,Sofa,Home and Kitchen,,missing,-2040,3,2024-01-15
+ORD1534,CUST355,south,Grinder,furnitures,,14225,-1017,two,2024/03/02
+ORD1535,CUST133,North,Mixer,Home & Kitchen,,,4668,2,2024/03/02
+ORD1536,CUST101,north,Lamp,furnitures,45744.0,1543,4898,three,2024/03/02
+ORD1537,CUST479,north,TV,Home and Kitchen,,,5799,2,15/02/2024
+ORD1538,CUST780,East,TV,Electronics,27680.0,37378,5127,three,2024/03/02
+ORD1539,CUST990,East,Bottle,Electronics,34937.0,missing,5547,2,15/02/2024
+ORD1540,CUST237,south,AC,Home and Kitchen,,11781,4238,3,2024-01-15
+ORD1541,CUST605,north,AC,Furniture,,29456,-4813,3,2024/03/02
+ORD1542,CUST397,North,Lamp,electronic,,missing,6202,1,March 11 2024
+ORD1543,CUST550,South,Table,furnitures,,,5400,2,2024-01-15
+ORD1544,CUST929,East,TV,Electronics,29765.0,16246,8454,2,March 11 2024
+ORD1545,CUST771,WEST,TV,furnitures,,missing,-4732,two,March 11 2024
+ORD1546,CUST498,South,Bottle,Home & Kitchen,,missing,1143,1,not available
+ORD1547,CUST275,south,Bottle,electronic,22913.0,33436,5894,two,2024-01-15
+ORD1548,CUST834,East,Chair,furnitures,,missing,-2370,1,March 11 2024
+ORD1549,CUST654,North,Grinder,Home and Kitchen,,7637,1649,two,not available
+ORD1550,CUST689,WEST,Bottle,Home & Kitchen,701.0,,-1496,two,2024-01-15
+ORD1551,CUST212,North,Bottle,Home and Kitchen,,missing,2653,3,2024/03/02
+ORD1552,CUST231,WEST,Chair,Home and Kitchen,27337.0,missing,3322,three,not available
+ORD1553,CUST996,north,Sofa,Furniture,,,4269,1,15/02/2024
+ORD1554,CUST861,South,Bottle,furnitures,40781.0,missing,8291,1,2024-01-15
+ORD1555,CUST389,WEST,Grinder,Furniture,,missing,1581,3,2024/03/02
+ORD1556,CUST285,South,Lamp,furnitures,2928.0,,4370,three,not available
+ORD1557,CUST364,south,Grinder,furnitures,10685.0,35081,6475,three,15/02/2024
+ORD1558,CUST634,East,Grinder,Home & Kitchen,,,1181,two,2024-01-15
+ORD1559,CUST239,north,Grinder,Furniture,,missing,4103,three,not available
+ORD1560,CUST581,south,Lamp,electronic,42389.0,13910,-1757,2,2024/03/02
+ORD1561,CUST674,north,TV,furnitures,6212.0,missing,-2912,3,2024-01-15
+ORD1562,CUST134,North,Lamp,electronic,,,4088,3,2024/03/02
+ORD1563,CUST789,South,Table,Home & Kitchen,10435.0,missing,7613,two,March 11 2024
+ORD1564,CUST860,south,Fan,Home and Kitchen,,missing,6504,three,March 11 2024
+ORD1565,CUST534,north,Bottle,furnitures,30363.0,7771,-1807,three,2024-01-15
+ORD1566,CUST508,north,Table,Electronics,,missing,-3995,three,2024-01-15
+ORD1567,CUST505,WEST,AC,Electronics,,,8687,three,2024-01-15
+ORD1568,CUST442,WEST,AC,Electronics,,15606,4323,1,March 11 2024
+ORD1569,CUST775,South,Lamp,Electronics,2900.0,,179,three,March 11 2024
+ORD1570,CUST338,south,Lamp,furnitures,32791.0,missing,7692,3,2024-01-15
+ORD1571,CUST234,north,AC,Home and Kitchen,2821.0,10254,478,1,15/02/2024
+ORD1572,CUST959,south,Bottle,Electronics,,10166,-1222,three,2024-01-15
+ORD1573,CUST720,WEST,Mixer,Electronics,12994.0,missing,-472,three,15/02/2024
+ORD1574,CUST782,South,Chair,Furniture,,missing,-4372,1,2024-01-15
+ORD1575,CUST609,north,Table,Electronics,4034.0,,8269,1,not available
+ORD1576,CUST835,WEST,Mixer,furnitures,,,1937,three,March 11 2024
+ORD1577,CUST776,south,Sofa,Furniture,41520.0,,-740,2,March 11 2024
+ORD1578,CUST112,North,Bottle,electronic,6066.0,7609,-616,1,2024/03/02
+ORD1579,CUST982,south,AC,Electronics,9418.0,missing,7767,2,15/02/2024
+ORD1580,CUST655,WEST,Fan,Furniture,8709.0,14319,-1498,3,15/02/2024
+ORD1581,CUST159,north,Bottle,Electronics,40563.0,31450,-2426,1,2024-01-15
+ORD1582,CUST766,South,Lamp,electronic,4096.0,,7070,three,not available
+ORD1583,CUST283,East,Lamp,Furniture,,missing,7563,two,not available
+ORD1584,CUST618,East,Sofa,Home & Kitchen,,missing,-1097,3,2024/03/02
+ORD1585,CUST799,South,Lamp,Furniture,,missing,1782,2,not available
+ORD1586,CUST700,North,Sofa,Electronics,30926.0,missing,6419,2,2024/03/02
+ORD1587,CUST465,East,Table,Home & Kitchen,,missing,1371,2,March 11 2024
+ORD1588,CUST205,WEST,Fan,electronic,32064.0,missing,250,2,2024-01-15
+ORD1589,CUST523,north,Grinder,Home and Kitchen,,25508,-2810,2,not available
+ORD1590,CUST231,South,Fan,electronic,,,5433,3,not available
+ORD1591,CUST615,south,Sofa,Home & Kitchen,16961.0,5100,6877,2,not available
+ORD1592,CUST447,North,Sofa,electronic,15021.0,missing,2979,three,2024/03/02
+ORD1593,CUST624,WEST,TV,Home & Kitchen,,42132,8819,1,March 11 2024
+ORD1594,CUST555,East,Mixer,furnitures,4628.0,,7086,2,not available
+ORD1595,CUST561,North,TV,electronic,35372.0,2361,6805,two,not available
+ORD1596,CUST211,East,Table,Home and Kitchen,30160.0,missing,-4477,1,2024-01-15
+ORD1597,CUST425,South,Table,Home and Kitchen,18781.0,35585,2015,three,2024/03/02
+ORD1598,CUST161,North,Lamp,electronic,,,2667,2,15/02/2024
+ORD1599,CUST874,South,Table,Home and Kitchen,29486.0,,-2434,3,2024/03/02
+ORD1600,CUST488,South,TV,Home and Kitchen,27798.0,14588,-3981,two,March 11 2024
+ORD1601,CUST195,South,TV,Electronics,,,5729,three,March 11 2024
+ORD1602,CUST108,south,Fan,Home and Kitchen,33571.0,,-4615,3,2024/03/02
+ORD1603,CUST250,North,Chair,Furniture,,,-727,1,not available
+ORD1604,CUST813,North,Chair,electronic,,,-4097,three,15/02/2024
+ORD1605,CUST444,South,AC,Furniture,,16422,-4637,1,2024-01-15
+ORD1606,CUST142,WEST,AC,furnitures,2309.0,missing,-1375,three,2024-01-15
+ORD1607,CUST761,South,Bottle,Electronics,42840.0,5149,-803,2,15/02/2024
+ORD1608,CUST237,north,AC,furnitures,,,-650,two,2024-01-15
+ORD1609,CUST707,WEST,TV,electronic,41007.0,24797,6744,two,2024/03/02
+ORD1610,CUST461,North,Sofa,Furniture,,,-4678,three,2024/03/02
+ORD1611,CUST269,WEST,Fan,furnitures,30697.0,37864,1903,2,not available
+ORD1612,CUST355,South,Grinder,Home & Kitchen,20640.0,19429,-904,2,March 11 2024
+ORD1613,CUST841,South,TV,Electronics,25940.0,41482,9161,2,March 11 2024
+ORD1614,CUST543,East,Sofa,Home and Kitchen,,,3942,3,2024-01-15
+ORD1615,CUST363,south,Grinder,Home & Kitchen,,missing,-2879,3,2024/03/02
+ORD1616,CUST535,East,TV,electronic,,,755,3,March 11 2024
+ORD1617,CUST600,East,Bottle,Home & Kitchen,,,2003,3,2024/03/02
+ORD1618,CUST813,south,Bottle,electronic,,,-3428,two,March 11 2024
+ORD1619,CUST548,south,AC,Home and Kitchen,35961.0,,9275,two,2024-01-15
+ORD1620,CUST696,north,Fan,Home and Kitchen,28402.0,21630,6299,3,2024/03/02
+ORD1621,CUST259,East,Fan,Home and Kitchen,,missing,611,2,2024/03/02
+ORD1622,CUST171,south,Table,electronic,,1743,7296,2,March 11 2024
+ORD1623,CUST778,South,Table,furnitures,25995.0,missing,858,3,2024-01-15
+ORD1624,CUST350,south,TV,Furniture,,11076,6547,three,2024/03/02
+ORD1625,CUST167,East,Table,Home and Kitchen,,missing,-4361,1,March 11 2024
+ORD1626,CUST935,south,Sofa,Home and Kitchen,46523.0,28179,9151,3,March 11 2024
+ORD1627,CUST227,East,Fan,Home & Kitchen,,18118,-818,3,not available
+ORD1628,CUST982,north,Fan,electronic,,,-1165,3,15/02/2024
+ORD1629,CUST894,north,TV,furnitures,22525.0,,-4632,1,March 11 2024
+ORD1630,CUST393,South,Bottle,Home and Kitchen,,missing,1109,two,March 11 2024
+ORD1631,CUST108,East,Grinder,furnitures,33446.0,,2728,1,2024-01-15
+ORD1632,CUST788,South,Grinder,electronic,25057.0,1604,-3656,2,2024-01-15
+ORD1633,CUST661,WEST,Table,Home & Kitchen,,,1413,3,2024-01-15
+ORD1634,CUST890,East,TV,Furniture,,8820,-2785,1,2024-01-15
+ORD1635,CUST460,South,Bottle,Home & Kitchen,,21296,9737,3,2024/03/02
+ORD1636,CUST284,north,Sofa,Home and Kitchen,,,6899,2,2024/03/02
+ORD1637,CUST333,South,Table,Electronics,5953.0,11202,9400,three,2024-01-15
+ORD1638,CUST465,north,Sofa,Home and Kitchen,,25761,-4198,1,2024/03/02
+ORD1639,CUST584,north,Table,Furniture,,34159,-3348,2,not available
+ORD1640,CUST136,north,Fan,furnitures,,,3656,2,2024/03/02
+ORD1641,CUST192,North,TV,Home & Kitchen,18404.0,13986,2099,2,March 11 2024
+ORD1642,CUST185,WEST,Fan,Home and Kitchen,,42312,8640,three,2024/03/02
+ORD1643,CUST128,South,Sofa,Furniture,,39229,2054,three,2024-01-15
+ORD1644,CUST290,WEST,Chair,Home and Kitchen,,,2116,3,2024-01-15
+ORD1645,CUST554,South,Grinder,Furniture,39584.0,missing,2970,2,2024-01-15
+ORD1646,CUST393,North,Bottle,furnitures,25039.0,1173,4871,two,not available
+ORD1647,CUST708,WEST,Grinder,Furniture,,15710,208,three,2024-01-15
+ORD1648,CUST458,WEST,AC,Home & Kitchen,49616.0,,3059,three,not available
+ORD1649,CUST630,East,Lamp,furnitures,2806.0,,2282,1,15/02/2024
+ORD1650,CUST887,south,Sofa,electronic,11114.0,23703,6317,2,15/02/2024
+ORD1651,CUST360,north,Fan,Electronics,,,2091,two,15/02/2024
+ORD1652,CUST323,South,Lamp,Home & Kitchen,8137.0,4303,2011,3,not available
+ORD1653,CUST630,WEST,Mixer,furnitures,48044.0,missing,-4793,three,15/02/2024
+ORD1654,CUST948,North,Bottle,Furniture,1300.0,22990,6972,2,not available
+ORD1655,CUST829,South,Table,Home & Kitchen,18745.0,3702,3884,3,2024-01-15
+ORD1656,CUST838,south,Mixer,Electronics,,30019,194,2,2024/03/02
+ORD1657,CUST240,East,Chair,Electronics,47603.0,missing,2981,two,March 11 2024
+ORD1658,CUST966,East,TV,Furniture,,,8153,2,not available
+ORD1659,CUST272,East,Lamp,Home & Kitchen,,30585,1210,two,2024-01-15
+ORD1660,CUST950,South,AC,Furniture,,missing,199,1,March 11 2024
+ORD1661,CUST646,East,Sofa,Home and Kitchen,22175.0,missing,-1356,three,15/02/2024
+ORD1662,CUST508,East,AC,furnitures,,,542,two,not available
+ORD1663,CUST274,north,Table,electronic,17030.0,missing,603,1,March 11 2024
+ORD1664,CUST123,North,Table,furnitures,,missing,2138,two,March 11 2024
+ORD1665,CUST658,north,Bottle,electronic,15414.0,missing,-834,3,15/02/2024
+ORD1666,CUST536,South,AC,Electronics,,,1883,3,March 11 2024
+ORD1667,CUST483,South,Bottle,electronic,38658.0,missing,7874,2,2024/03/02
+ORD1668,CUST369,East,Mixer,furnitures,19825.0,21001,4963,two,March 11 2024
+ORD1669,CUST161,north,Sofa,Furniture,,missing,6211,3,March 11 2024
+ORD1670,CUST835,north,Chair,furnitures,47250.0,31439,9979,three,15/02/2024
+ORD1671,CUST629,South,Fan,furnitures,,16168,-3968,2,15/02/2024
+ORD1672,CUST909,South,AC,Electronics,34271.0,missing,4056,three,not available
+ORD1673,CUST271,WEST,TV,Electronics,,,-2082,three,2024/03/02
+ORD1674,CUST589,north,TV,furnitures,4829.0,988,4856,1,15/02/2024
+ORD1675,CUST682,WEST,Lamp,electronic,,27876,-2431,three,2024/03/02
+ORD1676,CUST702,north,Bottle,Home and Kitchen,47694.0,,-2309,two,2024-01-15
+ORD1677,CUST778,South,Mixer,electronic,12520.0,missing,-4146,3,2024/03/02
+ORD1678,CUST851,East,Fan,Furniture,32399.0,missing,9080,1,15/02/2024
+ORD1679,CUST665,North,AC,Electronics,49326.0,6354,1980,3,March 11 2024
+ORD1680,CUST480,East,Mixer,Electronics,29341.0,missing,7522,1,15/02/2024
+ORD1681,CUST245,WEST,Table,electronic,,missing,2694,3,15/02/2024
+ORD1682,CUST121,north,Bottle,Home & Kitchen,,missing,-3548,3,2024-01-15
+ORD1683,CUST581,South,Table,furnitures,,missing,4568,2,2024-01-15
+ORD1684,CUST341,East,Lamp,electronic,10481.0,missing,2754,2,2024-01-15
+ORD1685,CUST680,WEST,Bottle,Home & Kitchen,34912.0,7039,8222,3,2024-01-15
+ORD1686,CUST844,North,Grinder,Electronics,,,756,three,15/02/2024
+ORD1687,CUST706,East,Chair,furnitures,43712.0,,8615,three,2024-01-15
+ORD1688,CUST619,North,TV,furnitures,31177.0,26351,7587,two,15/02/2024
+ORD1689,CUST920,north,Grinder,furnitures,,missing,-4648,1,2024/03/02
+ORD1690,CUST416,WEST,Sofa,Furniture,24753.0,,6655,3,15/02/2024
+ORD1691,CUST334,WEST,Fan,Home & Kitchen,,,-2131,two,2024/03/02
+ORD1692,CUST203,North,Grinder,Home & Kitchen,,,1560,two,March 11 2024
+ORD1693,CUST225,North,Fan,Electronics,4889.0,,526,3,not available
+ORD1694,CUST899,WEST,Lamp,Furniture,,,9495,1,15/02/2024
+ORD1695,CUST264,North,TV,electronic,,missing,-99,3,2024-01-15
+ORD1696,CUST667,south,TV,Home and Kitchen,884.0,42444,2908,3,2024-01-15
+ORD1697,CUST343,north,Mixer,electronic,9092.0,missing,-1967,3,15/02/2024
+ORD1698,CUST623,East,Lamp,Electronics,,missing,9012,3,not available
+ORD1699,CUST359,WEST,AC,Home and Kitchen,39884.0,,-516,3,15/02/2024
+ORD1700,CUST787,WEST,Grinder,Home and Kitchen,49282.0,,2227,two,2024-01-15
+ORD1701,CUST395,South,Bottle,Home and Kitchen,22755.0,missing,9054,2,not available
+ORD1702,CUST898,South,Lamp,Furniture,11798.0,,2662,1,2024/03/02
+ORD1703,CUST235,south,Grinder,Electronics,9988.0,29162,-415,1,not available
+ORD1704,CUST501,WEST,Table,Furniture,15954.0,,2667,1,not available
+ORD1705,CUST954,South,Bottle,furnitures,,missing,-1123,3,March 11 2024
+ORD1706,CUST713,WEST,Mixer,Electronics,,missing,8512,2,2024-01-15
+ORD1707,CUST407,north,TV,Home and Kitchen,10763.0,missing,-1998,2,2024/03/02
+ORD1708,CUST777,East,Mixer,Furniture,,,7227,3,not available
+ORD1709,CUST866,north,Table,Electronics,23673.0,20112,1650,1,2024-01-15
+ORD1710,CUST653,North,Grinder,Electronics,,4845,95,1,15/02/2024
+ORD1711,CUST343,north,Mixer,Home & Kitchen,,missing,1812,3,2024-01-15
+ORD1712,CUST569,South,Grinder,Home and Kitchen,38905.0,missing,3470,1,15/02/2024
+ORD1713,CUST963,East,Fan,electronic,9999.0,missing,-2443,2,15/02/2024
+ORD1714,CUST227,North,Mixer,Home and Kitchen,,42853,3738,three,15/02/2024
+ORD1715,CUST315,South,Bottle,Home & Kitchen,,,6385,2,15/02/2024
+ORD1716,CUST787,North,Bottle,Furniture,,,2495,1,2024-01-15
+ORD1717,CUST878,North,Bottle,Home & Kitchen,39008.0,,6126,2,2024/03/02
+ORD1718,CUST475,south,TV,furnitures,,34733,3548,two,March 11 2024
+ORD1719,CUST354,south,Sofa,Home & Kitchen,,25154,9036,3,not available
+ORD1720,CUST356,south,Chair,Home & Kitchen,39131.0,40894,9295,three,15/02/2024
+ORD1721,CUST302,East,Mixer,furnitures,,44363,-1489,2,15/02/2024
+ORD1722,CUST334,North,Table,Home & Kitchen,,,-2120,1,March 11 2024
+ORD1723,CUST103,WEST,TV,Furniture,21760.0,5133,9365,two,15/02/2024
+ORD1724,CUST763,south,TV,Home & Kitchen,,6861,9132,two,2024/03/02
+ORD1725,CUST702,East,AC,electronic,37666.0,missing,81,2,2024/03/02
+ORD1726,CUST726,North,TV,Furniture,,missing,-4356,three,15/02/2024
+ORD1727,CUST148,south,Grinder,Home & Kitchen,,,-4473,1,not available
+ORD1728,CUST860,North,AC,Electronics,,missing,-4590,1,not available
+ORD1729,CUST219,south,Grinder,Home and Kitchen,,missing,9836,1,2024-01-15
+ORD1730,CUST622,north,Fan,Home and Kitchen,,,7148,two,15/02/2024
+ORD1731,CUST945,South,AC,furnitures,37672.0,32452,9556,3,March 11 2024
+ORD1732,CUST117,south,TV,Home and Kitchen,30606.0,,6837,3,March 11 2024
+ORD1733,CUST185,south,TV,electronic,,18068,-532,two,15/02/2024
+ORD1734,CUST723,South,Grinder,furnitures,11654.0,missing,1181,two,March 11 2024
+ORD1735,CUST724,WEST,Bottle,Electronics,,,3880,3,15/02/2024
+ORD1736,CUST813,South,Bottle,Electronics,,5233,-3985,three,2024-01-15
+ORD1737,CUST240,East,Chair,Electronics,6324.0,missing,-1890,three,not available
+ORD1738,CUST241,WEST,TV,Home & Kitchen,,missing,6964,three,not available
+ORD1739,CUST259,East,Lamp,Home and Kitchen,,24211,2165,three,2024/03/02
+ORD1740,CUST832,East,Fan,Home & Kitchen,15657.0,,-4413,three,not available
+ORD1741,CUST387,south,Table,Electronics,17135.0,,-2476,two,2024-01-15
+ORD1742,CUST174,North,TV,electronic,,8981,3094,two,2024-01-15
+ORD1743,CUST664,WEST,Table,electronic,25820.0,missing,9687,1,March 11 2024
+ORD1744,CUST173,East,Mixer,Electronics,35475.0,,-3672,2,not available
+ORD1745,CUST886,South,Chair,Electronics,39834.0,27070,-932,3,15/02/2024
+ORD1746,CUST191,South,Table,Home and Kitchen,,missing,-4419,1,March 11 2024
+ORD1747,CUST915,East,TV,Home and Kitchen,,30950,-3771,two,15/02/2024
+ORD1748,CUST695,East,TV,electronic,11368.0,10940,-4911,2,2024-01-15
+ORD1749,CUST594,north,TV,Electronics,46569.0,,-1891,three,March 11 2024
+ORD1750,CUST544,south,Lamp,Home and Kitchen,49205.0,14539,4439,2,2024-01-15
+ORD1751,CUST658,south,TV,Furniture,,,995,three,not available
+ORD1752,CUST264,WEST,Mixer,Home & Kitchen,,4302,3372,2,not available
+ORD1753,CUST918,South,Bottle,Home and Kitchen,14750.0,,160,2,2024-01-15
+ORD1754,CUST957,South,Table,electronic,43186.0,,-2139,1,15/02/2024
+ORD1755,CUST665,south,Chair,Home and Kitchen,9509.0,,-1827,2,15/02/2024
+ORD1756,CUST846,north,Mixer,electronic,,missing,5256,1,2024-01-15
+ORD1757,CUST221,north,Grinder,furnitures,38597.0,,6562,1,March 11 2024
+ORD1758,CUST159,north,Fan,Furniture,,3678,3657,1,15/02/2024
+ORD1759,CUST854,WEST,Table,Home & Kitchen,,6269,5509,2,2024/03/02
+ORD1760,CUST512,South,Bottle,Electronics,,,-3669,2,March 11 2024
+ORD1761,CUST354,South,TV,electronic,14063.0,,7183,three,2024-01-15
+ORD1762,CUST707,WEST,Table,Furniture,48920.0,22166,7921,1,not available
+ORD1763,CUST150,South,Lamp,Home & Kitchen,21827.0,,-1954,1,2024/03/02
+ORD1764,CUST955,WEST,Grinder,Electronics,34853.0,22172,-4008,2,2024/03/02
+ORD1765,CUST488,East,Sofa,Electronics,16452.0,1525,8841,three,2024-01-15
+ORD1766,CUST933,South,Chair,Furniture,,missing,7395,three,2024/03/02
+ORD1767,CUST823,North,Chair,furnitures,,,3160,1,March 11 2024
+ORD1768,CUST703,North,Sofa,Furniture,9508.0,missing,341,three,2024-01-15
+ORD1769,CUST698,East,Bottle,Home & Kitchen,,missing,2121,two,15/02/2024
+ORD1770,CUST281,South,Grinder,Home & Kitchen,,33624,8759,1,2024-01-15
+ORD1771,CUST189,South,Grinder,electronic,1204.0,,1366,1,2024-01-15
+ORD1772,CUST595,North,Mixer,Home & Kitchen,,,7797,1,not available
+ORD1773,CUST278,South,Bottle,furnitures,,19264,-2458,two,2024/03/02
+ORD1774,CUST820,WEST,Sofa,furnitures,27150.0,12093,-1991,1,not available
+ORD1775,CUST595,south,Mixer,Home and Kitchen,,,-4387,three,2024-01-15
+ORD1776,CUST367,north,Chair,Furniture,47592.0,,9489,2,not available
+ORD1777,CUST202,south,TV,Electronics,,10390,-1744,2,March 11 2024
+ORD1778,CUST767,South,AC,electronic,27892.0,missing,-2332,3,15/02/2024
+ORD1779,CUST902,South,Grinder,Home and Kitchen,21459.0,35484,9479,two,15/02/2024
+ORD1780,CUST170,south,Mixer,electronic,45040.0,3626,-1473,3,15/02/2024
+ORD1781,CUST665,WEST,Grinder,Home and Kitchen,,missing,-1356,two,15/02/2024
+ORD1782,CUST304,North,Chair,electronic,,36889,2242,3,2024-01-15
+ORD1783,CUST957,North,Sofa,Home & Kitchen,29179.0,missing,8826,three,15/02/2024
+ORD1784,CUST799,North,Lamp,Home & Kitchen,32618.0,missing,-2976,3,2024/03/02
+ORD1785,CUST578,north,TV,Furniture,,missing,6265,3,not available
+ORD1786,CUST357,North,AC,Home and Kitchen,25706.0,missing,5797,2,15/02/2024
+ORD1787,CUST283,south,Bottle,Home & Kitchen,,missing,6918,1,15/02/2024
+ORD1788,CUST340,north,Lamp,furnitures,5947.0,5318,3095,two,2024-01-15
+ORD1789,CUST473,south,Fan,electronic,,,-1501,three,2024/03/02
+ORD1790,CUST312,north,Table,Home & Kitchen,43266.0,,1440,1,2024/03/02
+ORD1791,CUST225,south,Table,Home and Kitchen,36187.0,missing,8899,three,2024/03/02
+ORD1792,CUST306,south,AC,Home & Kitchen,,,5421,3,2024-01-15
+ORD1793,CUST836,East,Lamp,electronic,8256.0,missing,305,two,2024-01-15
+ORD1794,CUST783,North,Mixer,Electronics,,43843,-4074,three,2024/03/02
+ORD1795,CUST937,south,Grinder,Home & Kitchen,,,9949,2,15/02/2024
+ORD1796,CUST165,East,Table,Home & Kitchen,,,2371,2,March 11 2024
+ORD1797,CUST169,South,Fan,electronic,17564.0,8805,-2514,two,2024/03/02
+ORD1798,CUST129,South,Lamp,Electronics,13021.0,21423,-192,2,15/02/2024
+ORD1799,CUST820,WEST,AC,electronic,,missing,9937,three,March 11 2024
+ORD1696,CUST667,south,TV,Home and Kitchen,884.0,42444,2908,3,2024-01-15
+ORD1667,CUST483,South,Bottle,electronic,38658.0,missing,7874,2,2024/03/02
+ORD1063,CUST217,North,Bottle,Furniture,,31288,2815,2,March 11 2024
+ORD1533,CUST575,north,Sofa,Home and Kitchen,,missing,-2040,3,2024-01-15
+ORD1066,CUST786,south,Mixer,Furniture,20617.0,,1681,2,March 11 2024
+ORD1621,CUST259,East,Fan,Home and Kitchen,,missing,611,2,2024/03/02
+ORD1346,CUST683,south,Grinder,Furniture,,missing,4867,2,2024-01-15
+ORD1490,CUST300,WEST,Table,electronic,,6465,808,1,15/02/2024
+ORD1760,CUST512,South,Bottle,Electronics,,,-3669,2,March 11 2024
+ORD1456,CUST673,South,Fan,Home & Kitchen,,33074,1207,three,2024-01-15
+ORD1065,CUST749,WEST,Fan,furnitures,49297.0,,5436,two,March 11 2024
+ORD1286,CUST106,East,Fan,Home and Kitchen,,missing,2988,2,not available
+ORD1635,CUST460,South,Bottle,Home & Kitchen,,21296,9737,3,2024/03/02
+ORD1067,CUST817,north,Chair,furnitures,,,9655,three,2024/03/02
+ORD1327,CUST594,WEST,Chair,Furniture,6936.0,,4038,two,15/02/2024
+ORD1395,CUST400,South,Chair,electronic,7268.0,20276,7974,2,2024-01-15
+ORD1244,CUST631,East,Grinder,Electronics,,,-3841,3,March 11 2024
+ORD1377,CUST318,East,Chair,furnitures,,,8960,3,not available
+ORD1610,CUST461,North,Sofa,Furniture,,,-4678,three,2024/03/02
+ORD1526,CUST385,WEST,Chair,Home & Kitchen,23635.0,,9286,two,March 11 2024
+ORD1658,CUST966,East,TV,Furniture,,,8153,2,not available
+ORD1529,CUST847,South,AC,Furniture,,missing,296,3,2024/03/02
+ORD1622,CUST171,south,Table,electronic,,1743,7296,2,March 11 2024
+ORD1721,CUST302,East,Mixer,furnitures,,44363,-1489,2,15/02/2024
+ORD1360,CUST876,north,AC,furnitures,19784.0,38310,-4750,2,15/02/2024
+ORD1030,CUST730,south,Fan,Home & Kitchen,17966.0,,5471,3,not available
+ORD1260,CUST251,East,Bottle,Home and Kitchen,16976.0,37519,1421,2,2024/03/02
+ORD1637,CUST333,South,Table,Electronics,5953.0,11202,9400,three,2024-01-15
+ORD1746,CUST191,South,Table,Home and Kitchen,,missing,-4419,1,March 11 2024
+ORD1570,CUST338,south,Lamp,furnitures,32791.0,missing,7692,3,2024-01-15
+ORD1215,CUST844,WEST,Mixer,Home and Kitchen,,3526,-4833,1,not available
+ORD1078,CUST227,South,AC,Electronics,16822.0,7241,-3851,3,15/02/2024
+ORD1578,CUST112,North,Bottle,electronic,6066.0,7609,-616,1,2024/03/02
+ORD1383,CUST248,South,Mixer,electronic,41448.0,16335,-3258,3,2024-01-15
+ORD1039,CUST310,South,Fan,Electronics,35274.0,33168,8280,two,15/02/2024
+ORD1023,CUST714,East,Sofa,Furniture,,1585,-1007,3,not available
+ORD1692,CUST203,North,Grinder,Home & Kitchen,,,1560,two,March 11 2024
+ORD1398,CUST223,North,Mixer,Home & Kitchen,32419.0,,-1858,1,not available
+ORD1796,CUST165,East,Table,Home & Kitchen,,,2371,2,March 11 2024
+ORD1741,CUST387,south,Table,Electronics,17135.0,,-2476,two,2024-01-15
+ORD1139,CUST952,North,TV,Electronics,,missing,-4554,3,15/02/2024
+ORD1250,CUST238,north,AC,furnitures,49781.0,42053,-1785,three,not available
+ORD1174,CUST334,WEST,Fan,furnitures,,,2229,2,15/02/2024
+ORD1323,CUST227,north,Table,Electronics,44004.0,missing,9323,three,2024-01-15
+ORD1595,CUST561,North,TV,electronic,35372.0,2361,6805,two,not available
+ORD1525,CUST694,south,Fan,Home & Kitchen,49564.0,34103,877,1,2024-01-15
+ORD1423,CUST758,north,Sofa,furnitures,,15561,694,1,2024/03/02
+ORD1596,CUST211,East,Table,Home and Kitchen,30160.0,missing,-4477,1,2024-01-15
+ORD1604,CUST813,North,Chair,electronic,,,-4097,three,15/02/2024
+ORD1534,CUST355,south,Grinder,furnitures,,14225,-1017,two,2024/03/02
